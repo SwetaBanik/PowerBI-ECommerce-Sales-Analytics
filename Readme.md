@@ -48,11 +48,6 @@ Dimension Tables
 - Average Order Value
 - Conversion Rate
 
----
-
-## Dashboard Preview
-
-(Add screenshot here)
 
 ---
 
