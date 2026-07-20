@@ -67,7 +67,14 @@ Sales Analysis
 - Dashboard Design
 - Interactive Reporting
 
+## Dataset
 
+This project uses the **eCommerce Behavior Data from Multi Category Store** dataset by Michael Kechinov on Kaggle.
+
+Due to GitHub's file size limitations, the original dataset (~129 MB used in this project) is not included in this repository.
+
+Dataset Source:
+https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 
 
 
